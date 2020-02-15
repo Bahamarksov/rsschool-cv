@@ -42,4 +42,4 @@ func AtoiBase(s string, base string) int {
 1. Work in the prototyping laboratory
 1. Bachelor of Engineering
 
-## 8. Lear
+## 8. Learning English in courses and at the university.
